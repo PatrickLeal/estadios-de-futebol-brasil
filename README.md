@@ -2,6 +2,8 @@
 
 Um código para raspagem dos dados gerais e outro para os detalhes de cada estádio.
 
+## Os dados podem ser encontrados no [Kaggle](https://www.kaggle.com/datasets/patrickleal/brazilian-stadiums-dataset/data)
+
 obs1: Alguns estádios não possuem páginas na wikipedia
 
 obs2: Alguns estadios que possuem página na wikipedia, não contêm tabela com os dados.
@@ -14,6 +16,8 @@ obs2: Alguns estadios que possuem página na wikipedia, não contêm tabela com 
 # Web scraping of Brazilian Football Stadiums
 
 One code for scraping general data and another for stadium details.
+
+## The data can be downloaded on [Kaggle](https://www.kaggle.com/datasets/patrickleal/brazilian-stadiums-dataset/data)
 
 Note 1: Some stadiums do not have Wikipedia pages.
 
